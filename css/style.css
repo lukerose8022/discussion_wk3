@@ -1,0 +1,15 @@
+nav {
+    background: #2e8b57;
+    color: 	#f4a460;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    color: #800080;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
